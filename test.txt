@@ -1,4 +1,4 @@
 bonjour 
-"dev projet2 branch projet2"  plus
-dev2_master 
-branch dev1
+branch2 albert_plus
+dev2_text 
+albert
